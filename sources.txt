@@ -3710,9 +3710,4 @@ https://raw.githubusercontent.com/zpriddy/ASU_Class_Finder/main/log_sub.txt
 https://raw.githubusercontent.com/zs007-a/a/main/list.txt
 https://raw.githubusercontent.com/zwgmy/OpenWrt-X64-often/main/Sub2.txt
 https://raw.githubusercontent.com/zxslh/cf_vless/main/ip.txt
-https://raw.githubusercontent.com/zydou/high-frequency-words/main/13k.txt
-https://raw.githubusercontent.com/zydou/high-frequency-words/main/40k.txt
-https://raw.githubusercontent.com/zydou/high-frequency-words/main/4k.txt
-https://raw.githubusercontent.com/zydou/high-frequency-words/main/5k.txt
-https://raw.githubusercontent.com/zydou/high-frequency-words/main/8k.txt
 https://raw.githubusercontent.com/zyxusan/IPTV/main/V2ray.txt
